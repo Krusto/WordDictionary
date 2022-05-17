@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Krusto\source\repos\Dictionary\Dictionary\main.cpp(22,10): warning C4101: 'x': unreferenced local variable
+  Dictionary.vcxproj -> C:\Users\Krusto\source\repos\Dictionary\Debug\Dictionary.exe
